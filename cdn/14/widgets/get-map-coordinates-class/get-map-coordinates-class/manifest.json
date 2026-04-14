@@ -1,0 +1,19 @@
+{
+  "name": "get-map-coordinates-class",
+  "label": "Map Coord",
+  "type": "widget",
+  "version": "1.19.0",
+  "exbVersion": "1.19.0",
+  "description": "This widget displays the latitude/longitude, scale, zoom, tilt & link to Google3D.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 220,
+    "height": 190
+  },
+  "supportResize": false
+}

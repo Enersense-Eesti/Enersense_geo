@@ -1,0 +1,10 @@
+{
+  "name": "autoLatLon",
+  "label": "Auto Lat/Lon Writer",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "description": "Automatically calculates centroid and writes LAT/LON after edits.",
+  "supportMap": true,
+  "properties": {}
+}

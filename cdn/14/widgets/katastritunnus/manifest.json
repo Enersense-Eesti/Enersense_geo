@@ -1,0 +1,12 @@
+{
+  "name": "katastritunnus",
+  "label": "Katastri otsing",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "supportMapWidget": true,
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {}
+}
